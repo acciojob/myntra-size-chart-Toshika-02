@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 2px solid black;
+            padding: 2px;
+            text-align: center;
+        }
+        th {
+            background-color: indianred;
+			color:white;
+        }
+
+		.row-1{
+			color:white;
+			background-color:grey;
+		}
+		.row-2{
+			color:black;
+			background-color:hotpink;
+		}
+		.row-3{
+			color:black;
+		}
